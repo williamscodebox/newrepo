@@ -1,7 +1,6 @@
 info.txt
-<<<<<<< HEAD
 .paperclip/
 paperclip/
-=======
 .paperclip/
->>>>>>> a8ab232d4ba1dd1301a35f4ed14bc81886b9dc22
+*.png
+*.jpg
