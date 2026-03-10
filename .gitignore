@@ -4,3 +4,5 @@ paperclip/
 .paperclip/
 *.png
 *.jpg
+node_modules/
+*.yaml
